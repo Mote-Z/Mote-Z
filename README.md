@@ -10,7 +10,6 @@
 - 🤔 I’m looking for help with pwn and deep-learning
 - 👯 My CTF Team -> Never Stop Exploiting & LQers & CSU极光
 - 🎯 I want to be a full stack engineer...Orz
-- 📫 How to reach me: mrzhangsec@163.com
 
 ## Languages and Tools
 
